@@ -38,3 +38,6 @@ repo_gpgcheck=1
 EOF
 
 dnf install -y netbird
+
+#mpv
+rpm-ostree install mpv
