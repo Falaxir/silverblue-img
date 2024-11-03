@@ -40,4 +40,4 @@ EOF
 dnf install -y netbird
 
 #mpv
-rpm-ostree install mpv
+#rpm-ostree install mpv #EDIT: not needed, install flathub package and NOT fedora linux
