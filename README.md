@@ -1,3 +1,9 @@
+# Silverblue nvidia image
+
+How to install from base fedora atomic silverblue [in this forum](https://universal-blue.discourse.group/t/how-to-install-universal-blues-base-images/868)
+
+Image only used for my personal workflow, use at your own risk
+
 # image-template
 
 # Purpose
